@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.peterservice.crab:zoo-service:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/peterservice/crab/zoo-service/1.0.0-SNAPSHOT/zoo-service-1.0.0-20160517.085219-23.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/peterservice/crab/zoo-service/1.0.0-SNAPSHOT/zoo-service-1.0.0-20160517.085219-23-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/peterservice/crab/zoo-service/1.0.0-SNAPSHOT/zoo-service-1.0.0-20160517.085219-23-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
